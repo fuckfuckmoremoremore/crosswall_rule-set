@@ -9,7 +9,8 @@
         "myip.com",
         "seeip.org",
         "ipapi.co",
-        "ip.sb"
+        "ip.sb",
+        "ping0.cc"
       ]
     },
     {
@@ -17,12 +18,7 @@
       [
         "speedtest"
       ]
-    },
-    {
-      "domain_regex":
-      [
-        "https?:\/\/.+?\/cdn-cgi\/trace"
-      ]
+    }
     }
   ]
 }
