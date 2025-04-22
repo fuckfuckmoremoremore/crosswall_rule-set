@@ -1,0 +1,28 @@
+{
+  "version": 3,
+  "rules": 
+  [
+    {
+      "domain_suffix": 
+      [
+        "ipinfo.io",
+        "myip.com",
+        "seeip.org",
+        "ipapi.co",
+        "ip.sb"
+      ]
+    },
+    {
+      "domain_keyword":
+      [
+        "speedtest"
+      ]
+    },
+    {
+      "domain_regex":
+      [
+        "https?:\/\/.+?\/cdn-cgi\/trace"
+      ]
+    }
+  ]
+}
