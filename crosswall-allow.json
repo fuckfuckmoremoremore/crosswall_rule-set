@@ -18,13 +18,15 @@
         8080,
         13730,
         5222,
-        5223
+        5223,
+        5228
       ]
     },
     {
       "domain_suffix": 
       [
-        "apple.com"
+        "apple.com",
+        "google.com"
       ]
     }
   ]
