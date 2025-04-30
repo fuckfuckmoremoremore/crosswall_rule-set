@@ -48,7 +48,11 @@
       "domain_regex":
       [
         "^.*speed\\.hetzner\\.com$",
-        "^lg-.*\\.justvps\\.pro"
+        "^lg-.*\\.justvps\\.pro",
+        "^lg-.*\\.just\\.hosting",
+        "^lg-.*\\.justhost\\.asia",
+        "^lg-.*\\.justhost\\.ru",
+         "^.*-ping\\.vultr\\.com"
       ]
     },
     {
