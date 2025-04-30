@@ -47,7 +47,7 @@
     {
       "domain_regex":
       [
-        "^.*\.speed\.hetzner\.com$"
+        "^.*\\.speed\\.hetzner\\.com$"
       ]
     },
     {
