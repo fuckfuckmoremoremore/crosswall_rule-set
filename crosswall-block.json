@@ -36,7 +36,10 @@
         "bandwidthplace.com",
         "speedsmart.net",
         "meituan.net",
-        "proof.ovh.net"
+        "proof.ovh.net",
+        "measurementlab.net",
+        "speed.is",
+        "librespeed.org"
       ]
     },
     {
@@ -54,7 +57,8 @@
         "^lg-.*\\.just\\.hosting",
         "^lg-.*\\.justhost\\.asia",
         "^lg-.*\\.justhost\\.ru",
-         "^.*-ping\\.vultr\\.com"
+         "^.*-ping\\.vultr\\.com",
+        "^.*speed\\.sharktech\\.net$"
       ]
     },
     {
