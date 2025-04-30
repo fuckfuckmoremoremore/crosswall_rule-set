@@ -39,14 +39,18 @@
         "proof.ovh.net",
         "measurementlab.net",
         "speed.is",
-        "librespeed.org"
+        "librespeed.org",
+        "petiak.com",
+        "loadingtest.com",
+        "speed.nccu.edu.tw"
       ]
     },
     {
       "domain_keyword":
       [
         "speedtest",
-        "speed-test"
+        "speed-test",
+        "speedcheck"
       ]
     },
     {
