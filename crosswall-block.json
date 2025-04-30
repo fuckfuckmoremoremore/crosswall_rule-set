@@ -45,6 +45,12 @@
       ]
     },
     {
+      "domain_regex":
+      [
+        "^.*\.speed\.hetzner\.com$"
+      ]
+    },
+    {
       "protocol":
       [
           "stun"
