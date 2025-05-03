@@ -52,7 +52,9 @@
         "pinyin.sogou.com",
         "speed.transip.nl",
         "speed.io",
-        "datapacket.com"
+        "datapacket.com",
+        "bit.nl",
+        "nforce.com"
       ]
     },
     {
@@ -72,7 +74,8 @@
         "^lg-.*\\.justhost\\.asia",
         "^lg-.*\\.justhost\\.ru",
          "^.*-ping\\.vultr\\.com",
-        "^.*speed\\.sharktech\\.net$"
+        "^.*speed\\.sharktech\\.net$",
+        "^.*speedtest\\..*\\.linode\\.com$"
       ]
     },
     {
