@@ -96,14 +96,6 @@
       ]
     },
     {
-      "domain_keyword":
-      [
-        "speedtest",
-        "speed-test",
-        "speedcheck"
-      ]
-    },
-    {
       "domain_regex":
       [
         "^.*speed\\.hetzner\\.com$",
