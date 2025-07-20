@@ -29,8 +29,6 @@
         "skk.moe",
         "whoer.com",
         "whoer.net",
-        "speed.cloudflare.com",
-        "fast.com",
         "test.ustc.edu.cn",
         "test.nju.edu.cn",
         "speed5.ntu.edu.tw",
@@ -84,14 +82,6 @@
         "glass.enzonix.com",
         "outlinekeys.com",
         "3dos.io"
-      ]
-    },
-    {
-      "domain_keyword":
-      [
-        "speedtest",
-        "speed-test",
-        "speedcheck"
       ]
     },
     {
