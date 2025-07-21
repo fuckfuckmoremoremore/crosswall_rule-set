@@ -55,7 +55,12 @@
         "google.com",
         "herominers.com",
         "windows.com",
-        "okx.com"
+        "okx.com",
+        "cloudflare-dns.com",
+        "dns.google",
+        "dns.sb",
+        "cloudflare.com",
+        "twnic.tw"
       ]
     }
   ]
