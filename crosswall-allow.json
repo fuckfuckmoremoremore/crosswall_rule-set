@@ -64,7 +64,8 @@
         "cloudflare.com",
         "twnic.tw",
         "doh.pub",
-        "alidns.com"
+        "alidns.com",
+        "ampproject.org"
       ]
     }
   ]
