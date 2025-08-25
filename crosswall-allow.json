@@ -48,7 +48,10 @@
           "1.1.1.2/32",
           "9.9.9.9/32",
           "223.5.5.5/32",
-          "114.114.114.114/32"        
+          "114.114.114.114/32",
+          "88.82.0.0/19",
+          "46.68.0.0/17",
+          "87.194.0.0/16"
         ]
     },
     {
@@ -66,7 +69,13 @@
         "twnic.tw",
         "doh.pub",
         "alidns.com",
-        "ampproject.org"
+        "ampproject.org",
+        "giffgaff.com",
+        "entsrv-uk.vodafone.com",
+        "epdg.epc.mnc015.mcc234.pub.3gppnetwork.org",
+        "ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org",
+        "ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org",
+        "vuk-gto.prod.ondemandconnectivity.com"
       ]
     }
   ]
